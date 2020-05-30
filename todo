@@ -1,0 +1,20 @@
+
+next
+prettify menu
+sort out icons
+
+short term
+menu close on router-outlet change
+tasks
+    make fields take up all remaining space
+    prettify buttons
+    stop dropdowns opening/closing when new subtasks added (only expand when not clicking on another button)
+
+medium term
+design
+saving
+
+long term
+undo function
+way to input what you actually did
+users, auth (JSON Web Token), accounts
